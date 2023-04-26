@@ -1,2 +1,3 @@
 # This is an H1 header
 ## More headers
+![Image alternative text](https://octodex.github.com/images/yaktocat.png)
