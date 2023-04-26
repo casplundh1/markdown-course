@@ -5,3 +5,5 @@
 ```
 FROM table SELECT ytb
 ```
+- [ ] Task 1
+- [x] Task 2
